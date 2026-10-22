@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://d3ne0x.github.io/sitemap.xml
